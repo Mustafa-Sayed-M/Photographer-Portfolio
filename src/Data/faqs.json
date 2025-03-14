@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "question": "What type of photography do you specialize in?",
+        "answer": "I specialize in Portrait, Landscape, Event, and Jet photography, capturing moments that tell unique stories."
+    },
+    {
+        "id": 2,
+        "question": "How can I book a photography session with you?",
+        "answer": "You can book a session by contacting me through my website or social media platforms. A deposit may be required to confirm your booking."
+    },
+    {
+        "id": 3,
+        "question": "What equipment do you use for your photography?",
+        "answer": "I use high-end professional cameras and lenses, including Canon and Sony full-frame cameras, along with premium lighting equipment."
+    },
+    {
+        "id": 4,
+        "question": "Can I request a specific location for a photoshoot?",
+        "answer": "Yes, absolutely! I am open to shooting at any location of your choice, as long as it aligns with the session’s theme and permits photography."
+    },
+    {
+        "id": 5,
+        "question": "What is your editing process like?",
+        "answer": "I carefully edit each image to enhance colors, lighting, and composition while maintaining a natural look. Advanced retouching is available upon request."
+    },
+    {
+        "id": 6,
+        "question": "Are digital files included in your photography packages?",
+        "answer": "Yes, all packages include high-resolution digital files, which you can download and print as you wish."
+    },
+    {
+        "id": 7,
+        "question": "Do you offer prints of your photographs?",
+        "answer": "Yes, prints are available for purchase. Explore the ‘Prints’ section for more details on sizes and pricing."
+    },
+    {
+        "id": 8,
+        "question": "How long does it take to receive the edited photos after a session?",
+        "answer": "Editing usually takes 1-2 weeks, depending on the number of photos and the complexity of the edits."
+    }
+]

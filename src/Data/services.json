@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "cover": "/assets/images/services/covers/portrait.webp",
+        "name": "Portrait Photography",
+        "description": "Our portrait photography service is all about showcasing your unique personality. Whether you need a professional Head Shot, a family portrait, or a personal Photo Shoot, we create images that reflect your true self. We work closely with you to bring out your best angles and expressions, ensuring every portrait tells your story.",
+        "images": [
+            "/assets/images/services/slider/portrait/1.webp",
+            "/assets/images/services/slider/portrait/2.webp",
+            "/assets/images/services/slider/portrait/3.webp"
+        ],
+        "highlights": [
+            "Coverage for weddings, parties, corporate functions, and more.",
+            "Skilled photographers who know how to seize the moment.",
+            "A mix of candid and posed shots for a comprehensive story.",
+            "Quick turnaround for you to relive the day's highlights."
+        ],
+        "categories": [
+            {
+                "id": 1,
+                "title": "Individual Session",
+                "price": "$250",
+                "features": [
+                    "60-minute portrait session at a location of your choice.",
+                    "10 high-resolution edited digital images.",
+                    "1 outfit change allowed."
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Family Session",
+                "price": "$400",
+                "features": [
+                    "90-minute family portrait session.",
+                    "15 high-resolution edited digital images.",
+                    "Up to 5 family members included."
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Couple's Session",
+                "price": "$300",
+                "features": [
+                    "75-minute couple’s portrait session.",
+                    "12 high-resolution edited digital images.",
+                    "Candid and posed shots included."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "/assets/images/services/covers/events.webp",
+        "name": "Events Photography",
+        "description": "Our event photography service is dedicated to capturing the magic of your special occasions. Whether it's a wedding, corporate event, or milestone celebration, we're there to document every heartfelt moment. We blend into the background, ensuring natural and candid shots that reflect the emotions of the day.",
+        "images": [
+            "/assets/images/services/slider/events/1.webp",
+            "/assets/images/services/slider/events/2.webp",
+            "/assets/images/services/slider/events/3.webp"
+        ],
+        "highlights": [
+            "Capturing genuine emotions and moments.",
+            "Professional storytelling through images.",
+            "Discreet and natural approach to event coverage.",
+            "High-quality editing to enhance every shot."
+        ],
+        "categories": [
+            {
+                "id": 1,
+                "title": "Wedding Photography",
+                "price": "$1,500",
+                "features": [
+                    "Full-day wedding coverage.",
+                    "200+ high-resolution images delivered.",
+                    "Pre-wedding consultation and planning."
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Party Photography",
+                "price": "$800",
+                "features": [
+                    "4-hour event coverage.",
+                    "100+ high-resolution images.",
+                    "Candid and group shots included."
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Corporate Events",
+                "price": "Custom Pricing",
+                "features": [
+                    "Professional coverage for corporate events.",
+                    "On-site team for larger events.",
+                    "Customized pricing based on event scale."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "/assets/images/services/covers/commercial.webp",
+        "name": "Commercial Photography",
+        "description": "In the world of business, a compelling image can make all the difference. Our commercial photography service is designed to enhance your brand's visual identity. We create striking images for your products, services, and marketing campaigns that leave a lasting impact on your audience.",
+        "images": [
+            "/assets/images/services/slider/commercial/1.webp",
+            "/assets/images/services/slider/commercial/2.webp",
+            "/assets/images/services/slider/commercial/3.webp"
+        ],
+        "highlights": [
+            "Elevate your brand with high-end visuals.",
+            "Focused on product, fashion, and branding photography.",
+            "Tailored shoots to match your business identity.",
+            "Premium quality images for marketing and promotions."
+        ],
+        "categories": [
+            {
+                "id": 1,
+                "title": "Product Photography",
+                "price": "$500",
+                "features": [
+                    "Studio or on-location product shoot.",
+                    "15 high-quality product images.",
+                    "Multiple angles and lighting setups."
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Fashion Photography",
+                "price": "$700",
+                "features": [
+                    "Professional fashion photography session.",
+                    "20+ high-resolution images.",
+                    "Styling and lighting consultation included."
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Brand Photography",
+                "price": "Custom Pricing",
+                "features": [
+                    "Custom branding photography for businesses.",
+                    "Includes lifestyle and commercial shots.",
+                    "Tailored pricing based on project requirements."
+                ]
+            }
+        ]
+    }
+]

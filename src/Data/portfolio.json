@@ -1,0 +1,116 @@
+{
+    "portraits_photography": [
+        {
+            "id": 1,
+            "title": "Faces of Resilience",
+            "date": "March 2023",
+            "image": "/assets/images/portfolio/portraits/1.png"
+        },
+        {
+            "id": 2,
+            "title": "Innocence Unveiled",
+            "date": "January 2023",
+            "image": "/assets/images/portfolio/portraits/2.png"
+        },
+        {
+            "id": 3,
+            "title": "Elegance in Motion",
+            "date": "May 2023",
+            "image": "/assets/images/portfolio/portraits/3.png"
+        },
+        {
+            "id": 4,
+            "title": "The Silent Gaze",
+            "date": "July 2023",
+            "image": "/assets/images/portfolio/portraits/4.png"
+        },
+        {
+            "id": 5,
+            "title": "Urban Solitude",
+            "date": "September 2023",
+            "image": "/assets/images/portfolio/portraits/5.png"
+        },
+        {
+            "id": 6,
+            "title": "Golden Hour Portrait",
+            "date": "November 2023",
+            "image": "/assets/images/portfolio/portraits/6.png"
+        }
+    ],
+    "events_photography": [
+        {
+            "id": 1,
+            "title": "A Wedding Tale",
+            "date": "September 2022",
+            "image": "/assets/images/portfolio/events/1.png"
+        },
+        {
+            "id": 2,
+            "title": "Corporate Excellence Summit",
+            "date": "March 2022",
+            "image": "/assets/images/portfolio/events/2.png"
+        },
+        {
+            "id": 3,
+            "title": "Festival of Colors",
+            "date": "June 2022",
+            "image": "/assets/images/portfolio/events/3.png"
+        },
+        {
+            "id": 4,
+            "title": "Live Concert Extravaganza",
+            "date": "August 2022",
+            "image": "/assets/images/portfolio/events/4.png"
+        },
+        {
+            "id": 5,
+            "title": "Charity Gala Night",
+            "date": "October 2022",
+            "image": "/assets/images/portfolio/events/5.png"
+        },
+        {
+            "id": 6,
+            "title": "Sports Championship Final",
+            "date": "December 2022",
+            "image": "/assets/images/portfolio/events/6.png"
+        }
+    ],
+    "commercial_photography": [
+        {
+            "id": 1,
+            "title": "Product Elegance",
+            "date": "August 2023",
+            "image": "/assets/images/portfolio/commercial/1.png"
+        },
+        {
+            "id": 2,
+            "title": "Brand Storytelling",
+            "date": "April 2023",
+            "image": "/assets/images/portfolio/commercial/2.png"
+        },
+        {
+            "id": 3,
+            "title": "Culinary Delights",
+            "date": "May 2023",
+            "image": "/assets/images/portfolio/commercial/3.png"
+        },
+        {
+            "id": 4,
+            "title": "Luxury Fashion Shoot",
+            "date": "July 2023",
+            "image": "/assets/images/portfolio/commercial/4.png"
+        },
+        {
+            "id": 5,
+            "title": "Tech Innovation Showcase",
+            "date": "October 2023",
+            "image": "/assets/images/portfolio/events/5.png"
+        },
+        {
+            "id": 6,
+            "title": "Architectural Marvels",
+            "date": "December 2023",
+            "image": "/assets/images/portfolio/events/6.png"
+        }
+    ]
+}

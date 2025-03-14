@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Emily Johnson",
+        "location": "USA, California",
+        "rating": 5,
+        "review": "Damien's photography doesn’t just capture moments; it captures emotions. His work is simply mesmerizing."
+    },
+    {
+        "id": 2,
+        "name": "John Smith",
+        "location": "USA, California",
+        "rating": 5,
+        "review": "Damien has an incredible talent for making every event feel effortless, and the results speak for themselves."
+    },
+    {
+        "id": 3,
+        "name": "Samantha Davis",
+        "location": "USA, California",
+        "rating": 5,
+        "review": "I was blown away by Damien’s ability to capture the essence of our wedding day. His photographs are our cherished memories."
+    },
+    {
+        "id": 4,
+        "name": "Michael Brown",
+        "location": "USA, New York",
+        "rating": 4,
+        "review": "The photos were stunning! Damien has a keen eye for details, though I wish we had more candid shots."
+    },
+    {
+        "id": 5,
+        "name": "Sophia Martinez",
+        "location": "Canada, Toronto",
+        "rating": 5,
+        "review": "Absolutely phenomenal work! Every picture tells a beautiful story. Highly recommended."
+    },
+    {
+        "id": 6,
+        "name": "David Wilson",
+        "location": "UK, London",
+        "rating": 4,
+        "review": "Damien’s photos are fantastic! The lighting and composition were perfect, but some shots felt a bit staged."
+    }
+]
