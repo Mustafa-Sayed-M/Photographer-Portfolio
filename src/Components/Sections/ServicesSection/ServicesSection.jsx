@@ -23,7 +23,9 @@ function ServicesSection() {
                     </Link>
                 </SectionHeader>
                 {/* Services Slider */}
-                <Swiper>
+                <Swiper
+                    spaceBetween={25}
+                >
                     {
                         servicesData.map((service, index) => <SwiperSlide key={index}>
                             <div className='service-item grid md:grid-cols-2 gap-7 items-center'>
