@@ -1,4 +1,6 @@
 [
   "html",
-  "css"
+  "css",
+  "react",
+  "tailwindcss"
 ]
